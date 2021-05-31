@@ -1,5 +1,5 @@
 # Rouletteonline
-#Prueba tecnica
+#Prueba tecnica Clean code
 
 ##1 Endpoint de creación de nuevas ruletas que devuelva el id de la nueva ruleta creada.
 
