@@ -1,0 +1,17 @@
+C:\Users\Usuario\source\repos\Rouletteonline\Rouletteonline\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Usuario\source\repos\Rouletteonline\Rouletteonline\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Usuario\source\repos\Rouletteonline\Rouletteonline\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Usuario\source\repos\Rouletteonline\Rouletteonline\bin\Debug\netcoreapp3.1\Rouletteonline.exe
+C:\Users\Usuario\source\repos\Rouletteonline\Rouletteonline\bin\Debug\netcoreapp3.1\Rouletteonline.deps.json
+C:\Users\Usuario\source\repos\Rouletteonline\Rouletteonline\bin\Debug\netcoreapp3.1\Rouletteonline.runtimeconfig.json
+C:\Users\Usuario\source\repos\Rouletteonline\Rouletteonline\bin\Debug\netcoreapp3.1\Rouletteonline.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Rouletteonline\Rouletteonline\bin\Debug\netcoreapp3.1\Rouletteonline.dll
+C:\Users\Usuario\source\repos\Rouletteonline\Rouletteonline\bin\Debug\netcoreapp3.1\Rouletteonline.pdb
+C:\Users\Usuario\source\repos\Rouletteonline\Rouletteonline\obj\Debug\netcoreapp3.1\staticwebassets\Rouletteonline.StaticWebAssets.Manifest.cache
+C:\Users\Usuario\source\repos\Rouletteonline\Rouletteonline\obj\Debug\netcoreapp3.1\staticwebassets\Rouletteonline.StaticWebAssets.xml
+C:\Users\Usuario\source\repos\Rouletteonline\Rouletteonline\obj\Debug\netcoreapp3.1\Rouletteonline.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Rouletteonline\Rouletteonline\obj\Debug\netcoreapp3.1\Rouletteonline.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Rouletteonline\Rouletteonline\obj\Debug\netcoreapp3.1\Rouletteonline.RazorTargetAssemblyInfo.cache
+C:\Users\Usuario\source\repos\Rouletteonline\Rouletteonline\obj\Debug\netcoreapp3.1\Rouletteonline.dll
+C:\Users\Usuario\source\repos\Rouletteonline\Rouletteonline\obj\Debug\netcoreapp3.1\Rouletteonline.pdb
+C:\Users\Usuario\source\repos\Rouletteonline\Rouletteonline\obj\Debug\netcoreapp3.1\Rouletteonline.MvcApplicationPartsAssemblyInfo.cache
